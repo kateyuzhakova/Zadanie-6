@@ -1,0 +1,17 @@
+.main{
+    width: 80vw;
+    margin: 10px auto;
+}
+.card{
+    margin: 10px auto;
+}
+body{
+    background-color: rgb(244, 244, 244) !important;
+}
+label {
+    font-weight: bold;
+}
+
+table {
+    width: 50vh !important;
+}
